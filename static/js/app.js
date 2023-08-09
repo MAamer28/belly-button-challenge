@@ -32,9 +32,7 @@ function initialize(){
 
 
         // Executes the selection of data for a sample via the drop-down menu
-        var ddmenu = samples.map(item => item.id)
-        .filter((value, index, self) => self.indexOf(value) === index);
-    
+        var ddmenu = samples.map(item => item.id).filter((value, index, self) => self.indexOf(value) === index);
     
         // Creates the drop-down menu
         ddmenu.forEach(function (values) {
