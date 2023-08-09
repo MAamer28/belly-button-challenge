@@ -11,7 +11,7 @@ Below is a screenshot of the HTML dashboard, created  via JavaScript. The image 
 
 <img width="1348" alt="Screenshot 2023-08-08 at 9 37 38 PM" src="https://github.com/MAamer28/belly-button-challenge/assets/130619866/ed775e93-8beb-4134-a506-4538adc5cacc">
 
-Please see the attached HTML file to select any alternative samples. 
+Please see the attached HTML file to select any alternative samples. Please see the GitHub Pages link at https://maamer28.github.io/belly-button-challenge/ for a demonstration of the dashboard. 
 
 ## References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: (http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/).
